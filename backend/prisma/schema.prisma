@@ -1,0 +1,48 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id           Int           @id @default(autoincrement())
+  email        String        @unique
+  passwordHash String
+  name         String?
+  role         String        @default("USER") // USER, ADMIN
+  createdAt    DateTime      @default(now())
+  updatedAt    DateTime      @updatedAt
+  transactions Transaction[]
+}
+
+model Transaction {
+  id               Int      @id @default(autoincrement())
+  type             String   // Credit Card, UPI, etc.
+  amount           Float
+  currency         String   @default("INR")
+  transactionDate  DateTime @default(now())
+  
+  // Transaction details stored as JSON (dynamic based on type)
+  // e.g., { merchantId: "...", location: "...", ip: "..." }
+  details          String   // Storing JSON as string for simplicity in SQLite
+
+  // Fraud Detection Results
+  fraudProbability Float?
+  isFraud          Boolean? // ML prediction
+  riskLevel        String?  // LOW, MEDIUM, HIGH
+  
+  // Feedback for training
+  confirmedFraud   Boolean? // User/Admin confirmation
+  
+  userId           Int?
+  user             User?    @relation(fields: [userId], references: [id])
+  
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+}
