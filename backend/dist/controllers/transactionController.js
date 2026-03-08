@@ -38,7 +38,7 @@ const createTransaction = (req, res) => __awaiter(void 0, void 0, void 0, functi
             const mlResponse = yield axios_1.default.post(`${ML_SERVICE_URL}/predict`, {
                 type: mlType,
                 amount,
-                accountBalance: parseFloat(accountBalance),
+                accountBalance: accountBalance ? parseFloat(accountBalance) : 0,
                 transactionDuration: parseFloat(transactionDuration),
                 loginAttempts: parseInt(loginAttempts),
                 details

@@ -1,0 +1,6 @@
+TransactionType,Amount,Location,IsInternational,BaseRisk,TotalRisk,Status
+Credit Card,2000,Mumbai,local,0.1,0.1,Safe
+Credit Card,15000,New York,international,0.3,0.7,Danger
+Credit Card,50000,London,international,0.5,0.9,Danger
+Credit Card,5000,Pune,local,0.1,0.1,Safe
+Credit Card,300000,Delhi,local,0.8,0.8,Danger

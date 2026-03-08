@@ -1,0 +1,1001 @@
+Type,Amount,Location,IsInternational,RiskProbability,Status
+Credit Card,5806.28,Bangalore,local,0.1,Safe
+Credit Card,29705.54,Singapore,local,0.1,Safe
+Credit Card,4123.12,London,local,0.1,Safe
+Credit Card,26044.65,Delhi,international,0.5,Medium
+Credit Card,14739.34,Delhi,local,0.1,Safe
+Credit Card,6426.83,Delhi,local,0.1,Safe
+Credit Card,8222.54,London,local,0.1,Safe
+Credit Card,18760.82,Delhi,international,0.5,Medium
+Credit Card,1394.46,Bangalore,local,0.1,Safe
+Credit Card,4730.57,Bangalore,local,0.1,Safe
+Credit Card,25077.34,Singapore,local,0.1,Safe
+Credit Card,9351.22,Mumbai,local,0.1,Safe
+Credit Card,1287.81,Delhi,local,0.1,Safe
+Credit Card,22499.73,Mumbai,local,0.1,Safe
+Credit Card,17372.75,Mumbai,local,0.1,Safe
+Credit Card,16990.87,Dubai,local,0.1,Safe
+Credit Card,1431.12,Delhi,international,0.5,Medium
+Credit Card,19322.71,Singapore,local,0.1,Safe
+Credit Card,1323.09,London,local,0.1,Safe
+Credit Card,16767.4,Bangalore,local,0.1,Safe
+Credit Card,4025.6,New York,local,0.1,Safe
+Credit Card,20748.44,Dubai,local,0.1,Safe
+Credit Card,940.98,New York,local,0.1,Safe
+Credit Card,612.15,Dubai,local,0.1,Safe
+Credit Card,4922.52,New York,international,0.5,Medium
+Credit Card,7980.4,Singapore,local,0.1,Safe
+Credit Card,24323.86,London,local,0.1,Safe
+Credit Card,9047.63,New York,local,0.1,Safe
+Credit Card,5405.73,Bangalore,local,0.1,Safe
+Credit Card,8753.35,Dubai,local,0.1,Safe
+Credit Card,11956.87,London,international,0.5,Medium
+Credit Card,2808.36,London,local,0.1,Safe
+Credit Card,13536.86,London,local,0.1,Safe
+Credit Card,5748.5,Mumbai,local,0.1,Safe
+Credit Card,29138.89,New York,local,0.1,Safe
+Credit Card,3814.73,Singapore,international,0.5,Medium
+Credit Card,2820.29,Mumbai,local,0.1,Safe
+Credit Card,6006.01,Mumbai,local,0.1,Safe
+Credit Card,10050.52,Delhi,local,0.1,Safe
+Credit Card,9280.03,New York,international,0.5,Medium
+Credit Card,11210.94,Singapore,local,0.1,Safe
+Credit Card,49375.51,Delhi,international,0.5,Medium
+Credit Card,16312.13,London,local,0.1,Safe
+Credit Card,11702.62,Delhi,local,0.1,Safe
+Credit Card,32346.44,Bangalore,local,0.1,Safe
+Credit Card,58746.74,Mumbai,local,0.1,Safe
+Credit Card,7213.4,Singapore,local,0.1,Safe
+Credit Card,4226.41,Mumbai,local,0.1,Safe
+Credit Card,1170.21,Bangalore,international,0.5,Medium
+Credit Card,55031.98,Singapore,local,0.1,Safe
+Credit Card,618.57,Mumbai,local,0.1,Safe
+Credit Card,11863.65,London,local,0.1,Safe
+Credit Card,896.3,Delhi,local,0.1,Safe
+Credit Card,17353.91,Dubai,local,0.1,Safe
+Credit Card,8412.23,London,local,0.1,Safe
+Credit Card,3304.39,Dubai,local,0.1,Safe
+Credit Card,346.03,Delhi,local,0.1,Safe
+Credit Card,22977.12,London,local,0.1,Safe
+Credit Card,205.35,Dubai,local,0.1,Safe
+Credit Card,16831.9,London,local,0.1,Safe
+Credit Card,39589.23,Dubai,local,0.1,Safe
+Credit Card,11689.75,Singapore,local,0.1,Safe
+Credit Card,33945.54,Singapore,local,0.1,Safe
+Credit Card,45432.9,New York,local,0.1,Safe
+Credit Card,24243.45,New York,local,0.1,Safe
+Credit Card,29925.62,Mumbai,local,0.1,Safe
+Credit Card,13359.3,London,local,0.1,Safe
+Credit Card,12712.36,London,local,0.1,Safe
+Credit Card,28827.71,New York,local,0.1,Safe
+Credit Card,4745.12,Singapore,local,0.1,Safe
+Credit Card,36872.19,New York,local,0.1,Safe
+Credit Card,26999.54,London,local,0.1,Safe
+Credit Card,32566.07,New York,international,0.5,Medium
+Credit Card,30857.85,Dubai,local,0.1,Safe
+Credit Card,3128.13,Delhi,local,0.1,Safe
+Credit Card,1642.77,Delhi,local,0.1,Safe
+Credit Card,2601.64,London,local,0.1,Safe
+Credit Card,26642.26,Singapore,local,0.1,Safe
+Credit Card,4223.88,Dubai,local,0.1,Safe
+Credit Card,478.8,Dubai,local,0.1,Safe
+Credit Card,1034.48,Dubai,local,0.1,Safe
+Credit Card,5592.2,Dubai,local,0.1,Safe
+Credit Card,12078.4,London,local,0.1,Safe
+Credit Card,7777.9,Delhi,local,0.1,Safe
+Credit Card,11094.94,New York,international,0.5,Medium
+Credit Card,14161.92,New York,local,0.1,Safe
+Credit Card,2484.81,Bangalore,local,0.1,Safe
+Credit Card,666.1,Mumbai,local,0.1,Safe
+Credit Card,21599.12,Mumbai,local,0.1,Safe
+Credit Card,36731.97,New York,local,0.1,Safe
+Credit Card,22830.8,London,local,0.1,Safe
+Credit Card,5982.19,Bangalore,local,0.1,Safe
+Credit Card,29174.89,Bangalore,local,0.1,Safe
+Credit Card,10435.51,Delhi,local,0.1,Safe
+Credit Card,23966.79,New York,local,0.1,Safe
+Credit Card,12115.32,New York,local,0.1,Safe
+Credit Card,34998.63,New York,local,0.1,Safe
+Credit Card,26754.39,Singapore,local,0.1,Safe
+Credit Card,269.94,Bangalore,local,0.1,Safe
+Credit Card,17812.14,Singapore,local,0.1,Safe
+Credit Card,3403.1,Dubai,local,0.1,Safe
+Credit Card,6285.26,Mumbai,local,0.1,Safe
+Credit Card,573.14,London,local,0.1,Safe
+Credit Card,13762.59,Dubai,local,0.1,Safe
+Credit Card,227.52,London,local,0.1,Safe
+Credit Card,28828.81,Delhi,local,0.1,Safe
+Credit Card,17724.88,New York,local,0.1,Safe
+Credit Card,5935.47,Bangalore,international,0.5,Medium
+Credit Card,3930.68,London,local,0.1,Safe
+Credit Card,24261.47,Delhi,local,0.1,Safe
+Credit Card,37442.37,New York,local,0.1,Safe
+Credit Card,24215.35,Mumbai,local,0.1,Safe
+Credit Card,1878.59,Delhi,local,0.1,Safe
+Credit Card,10063.08,Dubai,international,0.5,Medium
+Credit Card,12049.84,Singapore,local,0.1,Safe
+Credit Card,26524.17,Delhi,local,0.1,Safe
+Credit Card,2239.48,Singapore,local,0.1,Safe
+Credit Card,22553.53,London,local,0.1,Safe
+Credit Card,12429.96,Singapore,local,0.1,Safe
+Credit Card,6941.7,New York,local,0.1,Safe
+Credit Card,11580.88,New York,local,0.1,Safe
+Credit Card,3972.6,London,local,0.1,Safe
+Credit Card,8489.12,Singapore,local,0.1,Safe
+Credit Card,3948.52,Delhi,local,0.1,Safe
+Credit Card,11717.65,Mumbai,local,0.1,Safe
+Credit Card,18232.32,Dubai,local,0.1,Safe
+Credit Card,19965.61,Dubai,local,0.1,Safe
+Credit Card,28769.75,Singapore,local,0.1,Safe
+Credit Card,28411.0,Dubai,local,0.1,Safe
+Credit Card,28260.39,Mumbai,local,0.1,Safe
+Credit Card,23022.34,New York,local,0.1,Safe
+Credit Card,2817.72,Singapore,local,0.1,Safe
+Credit Card,22393.24,Delhi,international,0.5,Medium
+Credit Card,24735.53,Mumbai,local,0.1,Safe
+Credit Card,3530.63,Bangalore,international,0.5,Medium
+Credit Card,17316.2,London,local,0.1,Safe
+Credit Card,15581.29,London,local,0.1,Safe
+Credit Card,11341.17,Mumbai,local,0.1,Safe
+Credit Card,36973.46,New York,local,0.1,Safe
+Credit Card,4601.6,Delhi,local,0.1,Safe
+Credit Card,8755.67,Dubai,local,0.1,Safe
+Credit Card,828.81,Delhi,local,0.1,Safe
+Credit Card,28941.02,New York,local,0.1,Safe
+Credit Card,10606.12,New York,local,0.1,Safe
+Credit Card,11048.67,Singapore,local,0.1,Safe
+Credit Card,4142.17,London,local,0.1,Safe
+Credit Card,21176.56,Mumbai,local,0.1,Safe
+Credit Card,15672.58,New York,local,0.1,Safe
+Credit Card,16326.05,Mumbai,local,0.1,Safe
+Credit Card,11835.78,Mumbai,local,0.1,Safe
+Credit Card,1009.75,Delhi,local,0.1,Safe
+Credit Card,22054.93,London,local,0.1,Safe
+Credit Card,3676.58,Singapore,local,0.1,Safe
+Credit Card,5117.96,Mumbai,local,0.1,Safe
+Credit Card,546.14,Bangalore,local,0.1,Safe
+Credit Card,6324.3,Singapore,local,0.1,Safe
+Credit Card,42271.81,Bangalore,local,0.1,Safe
+Credit Card,2348.46,Bangalore,local,0.1,Safe
+Credit Card,23646.9,Dubai,local,0.1,Safe
+Credit Card,29207.11,Mumbai,local,0.1,Safe
+Credit Card,16876.43,London,local,0.1,Safe
+Credit Card,27466.42,Mumbai,international,0.5,Medium
+Credit Card,35838.28,London,local,0.1,Safe
+Credit Card,8783.21,Singapore,local,0.1,Safe
+Credit Card,9795.03,New York,local,0.1,Safe
+Credit Card,14986.4,Delhi,local,0.1,Safe
+Credit Card,4127.01,Delhi,local,0.1,Safe
+Credit Card,11367.42,Singapore,local,0.1,Safe
+Credit Card,1983.73,Singapore,local,0.1,Safe
+Credit Card,20123.42,Bangalore,local,0.1,Safe
+Credit Card,12758.4,Singapore,local,0.1,Safe
+Credit Card,22093.66,Dubai,local,0.1,Safe
+Credit Card,91922.74,Dubai,international,0.5,Medium
+Credit Card,2250.89,Singapore,local,0.1,Safe
+Credit Card,28249.57,Bangalore,local,0.1,Safe
+Credit Card,48632.02,New York,international,0.5,Medium
+Credit Card,1913.7,Delhi,local,0.1,Safe
+Credit Card,5981.89,Mumbai,local,0.1,Safe
+Credit Card,8815.27,London,local,0.1,Safe
+Credit Card,12711.94,Dubai,local,0.1,Safe
+Credit Card,36675.81,Mumbai,local,0.1,Safe
+Credit Card,6032.12,Delhi,local,0.1,Safe
+Credit Card,11907.2,Dubai,local,0.1,Safe
+Credit Card,543.9,New York,local,0.1,Safe
+Credit Card,1077.42,Delhi,local,0.1,Safe
+Credit Card,7708.35,Dubai,local,0.1,Safe
+Credit Card,678.63,Bangalore,local,0.1,Safe
+Credit Card,56635.24,Singapore,local,0.1,Safe
+Credit Card,18155.2,London,local,0.1,Safe
+Credit Card,5641.42,Delhi,local,0.1,Safe
+Credit Card,10065.57,Bangalore,local,0.1,Safe
+Credit Card,2648.58,Bangalore,local,0.1,Safe
+Credit Card,7833.14,Dubai,local,0.1,Safe
+Credit Card,3278.49,Bangalore,local,0.1,Safe
+Credit Card,25873.67,Mumbai,local,0.1,Safe
+Credit Card,14122.65,Mumbai,local,0.1,Safe
+Credit Card,6323.68,Singapore,local,0.1,Safe
+Credit Card,71573.16,Mumbai,local,0.1,Safe
+Credit Card,4345.52,Dubai,local,0.1,Safe
+Credit Card,12831.08,Singapore,international,0.5,Medium
+Credit Card,54508.76,London,local,0.1,Safe
+Credit Card,11971.92,Dubai,local,0.1,Safe
+Credit Card,5792.54,Mumbai,local,0.1,Safe
+Credit Card,35496.45,London,local,0.1,Safe
+Credit Card,12931.81,New York,local,0.1,Safe
+Credit Card,17216.82,London,local,0.1,Safe
+Credit Card,20449.69,London,local,0.1,Safe
+Credit Card,6013.14,New York,local,0.1,Safe
+Credit Card,16897.45,Delhi,local,0.1,Safe
+Credit Card,5659.05,Dubai,international,0.5,Medium
+Credit Card,1414.11,London,local,0.1,Safe
+Credit Card,11659.73,Singapore,local,0.1,Safe
+Credit Card,31980.79,London,local,0.1,Safe
+Credit Card,64716.34,New York,local,0.1,Safe
+Credit Card,4334.44,Singapore,local,0.1,Safe
+Credit Card,25540.93,Delhi,local,0.1,Safe
+Credit Card,20611.8,New York,local,0.1,Safe
+Credit Card,1498.75,Delhi,local,0.1,Safe
+Credit Card,240.79,Dubai,local,0.1,Safe
+Credit Card,10738.64,Singapore,local,0.1,Safe
+Credit Card,5908.54,Singapore,local,0.1,Safe
+Credit Card,15932.75,New York,local,0.1,Safe
+Credit Card,15313.42,Dubai,local,0.1,Safe
+Credit Card,10793.64,Singapore,local,0.1,Safe
+Credit Card,8463.68,Singapore,local,0.1,Safe
+Credit Card,31310.54,Singapore,local,0.1,Safe
+Credit Card,9478.15,Mumbai,local,0.1,Safe
+Credit Card,9622.49,Dubai,local,0.1,Safe
+Credit Card,32211.51,Bangalore,local,0.1,Safe
+Credit Card,4538.36,Dubai,local,0.1,Safe
+Credit Card,8372.55,Bangalore,local,0.1,Safe
+Credit Card,11163.71,New York,local,0.1,Safe
+Credit Card,17549.4,Delhi,local,0.1,Safe
+Credit Card,36286.19,Dubai,local,0.1,Safe
+Credit Card,57038.79,Singapore,local,0.1,Safe
+Credit Card,3124.48,New York,local,0.1,Safe
+Credit Card,26372.67,Mumbai,local,0.1,Safe
+Credit Card,231.03,Dubai,local,0.1,Safe
+Credit Card,16915.72,Bangalore,local,0.1,Safe
+Credit Card,9124.61,Dubai,local,0.1,Safe
+Credit Card,21071.71,New York,local,0.1,Safe
+Credit Card,8772.43,Dubai,local,0.1,Safe
+Credit Card,14560.63,Bangalore,local,0.1,Safe
+Credit Card,10913.37,Bangalore,local,0.1,Safe
+Credit Card,3504.45,New York,local,0.1,Safe
+Credit Card,11294.3,London,local,0.1,Safe
+Credit Card,49351.33,Singapore,local,0.1,Safe
+Credit Card,7054.42,Mumbai,local,0.1,Safe
+Credit Card,8109.19,New York,local,0.1,Safe
+Credit Card,91134.98,Singapore,local,0.1,Safe
+Credit Card,11683.77,Singapore,local,0.1,Safe
+Credit Card,567.31,Bangalore,local,0.1,Safe
+Credit Card,835.8,Dubai,international,0.5,Medium
+Credit Card,4159.84,London,local,0.1,Safe
+Credit Card,66816.54,Mumbai,local,0.1,Safe
+Credit Card,4340.07,New York,local,0.1,Safe
+Credit Card,12578.42,Singapore,local,0.1,Safe
+Credit Card,8112.05,Delhi,local,0.1,Safe
+Credit Card,23294.5,London,local,0.1,Safe
+Credit Card,2580.64,Dubai,local,0.1,Safe
+Credit Card,24848.58,Dubai,local,0.1,Safe
+Credit Card,1235.54,New York,local,0.1,Safe
+Credit Card,21751.52,Delhi,local,0.1,Safe
+Credit Card,2556.79,Mumbai,local,0.1,Safe
+Credit Card,31111.69,New York,local,0.1,Safe
+Credit Card,31232.8,Singapore,local,0.1,Safe
+Credit Card,2001.64,London,local,0.1,Safe
+Credit Card,4593.82,Bangalore,local,0.1,Safe
+Credit Card,29150.99,Delhi,local,0.1,Safe
+Credit Card,2207.71,Bangalore,local,0.1,Safe
+Credit Card,15252.39,Delhi,local,0.1,Safe
+Credit Card,44583.26,Delhi,local,0.1,Safe
+Credit Card,11019.27,London,local,0.1,Safe
+Credit Card,39876.98,Singapore,local,0.1,Safe
+Credit Card,34487.05,Dubai,international,0.5,Medium
+Credit Card,37304.59,New York,international,0.5,Medium
+Credit Card,29375.38,Dubai,local,0.1,Safe
+Credit Card,3832.06,Bangalore,local,0.1,Safe
+Credit Card,24666.56,New York,local,0.1,Safe
+Credit Card,22042.63,Bangalore,local,0.1,Safe
+Credit Card,16799.69,Dubai,local,0.1,Safe
+Credit Card,7914.09,Bangalore,local,0.1,Safe
+Credit Card,1440.18,Delhi,local,0.1,Safe
+Credit Card,2464.36,Dubai,local,0.1,Safe
+Credit Card,9548.18,Dubai,local,0.1,Safe
+Credit Card,1274.78,New York,local,0.1,Safe
+Credit Card,4343.5,Singapore,local,0.1,Safe
+Credit Card,4490.34,Singapore,local,0.1,Safe
+Credit Card,37793.9,Dubai,local,0.1,Safe
+Credit Card,33841.08,Bangalore,local,0.1,Safe
+Credit Card,16906.35,Delhi,local,0.1,Safe
+Credit Card,58044.04,London,local,0.1,Safe
+Credit Card,13388.88,Mumbai,local,0.1,Safe
+Credit Card,14007.32,Mumbai,international,0.5,Medium
+Credit Card,44136.34,Singapore,local,0.1,Safe
+Credit Card,35545.95,Delhi,local,0.1,Safe
+Credit Card,32421.63,Bangalore,local,0.1,Safe
+Credit Card,15701.97,Singapore,local,0.1,Safe
+Credit Card,7499.76,Bangalore,local,0.1,Safe
+Credit Card,41615.82,Mumbai,local,0.1,Safe
+Credit Card,1825.06,Bangalore,international,0.5,Medium
+Credit Card,2600.57,New York,local,0.1,Safe
+Credit Card,1296.83,Singapore,local,0.1,Safe
+Credit Card,68.62,Delhi,local,0.1,Safe
+Credit Card,28632.6,Mumbai,local,0.1,Safe
+Credit Card,32623.79,Bangalore,local,0.1,Safe
+Credit Card,33076.45,Dubai,local,0.1,Safe
+Credit Card,20630.01,Dubai,local,0.1,Safe
+Credit Card,32099.79,Delhi,local,0.1,Safe
+Credit Card,26138.31,Bangalore,local,0.1,Safe
+Credit Card,21621.18,London,local,0.1,Safe
+Credit Card,1056.98,Delhi,local,0.1,Safe
+Credit Card,13355.59,Dubai,local,0.1,Safe
+Credit Card,1829.68,Singapore,local,0.1,Safe
+Credit Card,4336.93,Delhi,local,0.1,Safe
+Credit Card,22902.55,New York,local,0.1,Safe
+Credit Card,10229.91,Bangalore,local,0.1,Safe
+Credit Card,24130.65,Dubai,local,0.1,Safe
+Credit Card,3653.34,Mumbai,local,0.1,Safe
+Credit Card,19971.21,London,local,0.1,Safe
+Credit Card,27125.14,Mumbai,local,0.1,Safe
+Credit Card,1721.19,Bangalore,local,0.1,Safe
+Credit Card,66549.33,Dubai,local,0.1,Safe
+Credit Card,1627.78,London,local,0.1,Safe
+Credit Card,5586.03,Delhi,local,0.1,Safe
+Credit Card,20997.79,Mumbai,international,0.5,Medium
+Credit Card,14143.28,New York,local,0.1,Safe
+Credit Card,57392.13,Bangalore,local,0.1,Safe
+Credit Card,13783.81,Delhi,local,0.1,Safe
+Credit Card,1553.63,Delhi,local,0.1,Safe
+Credit Card,39641.01,London,local,0.1,Safe
+Credit Card,39216.04,Singapore,local,0.1,Safe
+Credit Card,30085.4,Bangalore,local,0.1,Safe
+Credit Card,54936.14,Singapore,local,0.1,Safe
+Credit Card,8136.45,Singapore,local,0.1,Safe
+Credit Card,9482.77,Dubai,local,0.1,Safe
+Credit Card,1877.94,Bangalore,international,0.5,Medium
+Credit Card,5576.12,Mumbai,local,0.1,Safe
+Credit Card,20249.88,London,local,0.1,Safe
+Credit Card,2738.18,Delhi,local,0.1,Safe
+Credit Card,1697.3,Dubai,local,0.1,Safe
+Credit Card,2995.55,Singapore,local,0.1,Safe
+Credit Card,16257.45,Singapore,local,0.1,Safe
+Credit Card,16896.72,Dubai,local,0.1,Safe
+Credit Card,4734.79,Mumbai,local,0.1,Safe
+Credit Card,21915.29,Singapore,international,0.5,Medium
+Credit Card,5548.66,London,local,0.1,Safe
+Credit Card,5470.99,Singapore,local,0.1,Safe
+Credit Card,30731.92,Delhi,local,0.1,Safe
+Credit Card,9588.49,London,local,0.1,Safe
+Credit Card,61603.88,Bangalore,local,0.1,Safe
+Credit Card,22908.66,New York,local,0.1,Safe
+Credit Card,9069.73,New York,local,0.1,Safe
+Credit Card,5106.61,New York,local,0.1,Safe
+Credit Card,11577.2,Delhi,local,0.1,Safe
+Credit Card,9200.39,Dubai,local,0.1,Safe
+Credit Card,2434.77,Delhi,international,0.5,Medium
+Credit Card,7307.18,London,local,0.1,Safe
+Credit Card,3634.96,Dubai,local,0.1,Safe
+Credit Card,7118.05,Mumbai,local,0.1,Safe
+Credit Card,5913.31,London,local,0.1,Safe
+Credit Card,12708.67,Dubai,local,0.1,Safe
+Credit Card,13410.11,Delhi,local,0.1,Safe
+Credit Card,14200.19,London,local,0.1,Safe
+Credit Card,11375.44,Mumbai,local,0.1,Safe
+Credit Card,6892.02,London,local,0.1,Safe
+Credit Card,6640.25,Mumbai,local,0.1,Safe
+Credit Card,5423.66,Mumbai,local,0.1,Safe
+Credit Card,12328.5,Mumbai,local,0.1,Safe
+Credit Card,7049.25,Dubai,local,0.1,Safe
+Credit Card,16467.54,Dubai,local,0.1,Safe
+Credit Card,26159.96,Bangalore,local,0.1,Safe
+Credit Card,5404.1,New York,local,0.1,Safe
+Credit Card,32993.29,Dubai,international,0.5,Medium
+Credit Card,11049.42,Mumbai,international,0.5,Medium
+Credit Card,13790.95,Delhi,local,0.1,Safe
+Credit Card,17408.8,London,local,0.1,Safe
+Credit Card,6525.16,Delhi,local,0.1,Safe
+Credit Card,3979.49,Delhi,local,0.1,Safe
+Credit Card,20997.72,London,international,0.5,Medium
+Credit Card,10214.68,Singapore,local,0.1,Safe
+Credit Card,3928.87,Delhi,local,0.1,Safe
+Credit Card,9180.68,London,local,0.1,Safe
+Credit Card,6923.32,London,local,0.1,Safe
+Credit Card,29329.57,Dubai,local,0.1,Safe
+Credit Card,14799.64,Mumbai,local,0.1,Safe
+Credit Card,20861.06,Delhi,local,0.1,Safe
+Credit Card,9072.14,Delhi,local,0.1,Safe
+Credit Card,6600.47,Delhi,local,0.1,Safe
+Credit Card,4128.35,Dubai,international,0.5,Medium
+Credit Card,53122.38,Singapore,local,0.1,Safe
+Credit Card,11420.41,New York,local,0.1,Safe
+Credit Card,30188.36,Dubai,local,0.1,Safe
+Credit Card,4445.37,New York,local,0.1,Safe
+Credit Card,19970.95,New York,local,0.1,Safe
+Credit Card,4663.3,Mumbai,local,0.1,Safe
+Credit Card,8138.88,London,local,0.1,Safe
+Credit Card,32212.56,New York,local,0.1,Safe
+Credit Card,1658.11,Mumbai,local,0.1,Safe
+Credit Card,9280.35,Delhi,local,0.1,Safe
+Credit Card,26036.03,Bangalore,local,0.1,Safe
+Credit Card,20092.92,Singapore,local,0.1,Safe
+Credit Card,23904.84,Dubai,local,0.1,Safe
+Credit Card,16666.48,Bangalore,local,0.1,Safe
+Credit Card,22986.61,Bangalore,local,0.1,Safe
+Credit Card,2712.74,Singapore,local,0.1,Safe
+Credit Card,13943.63,London,local,0.1,Safe
+Credit Card,46848.54,Mumbai,international,0.5,Medium
+Credit Card,12050.15,London,local,0.1,Safe
+Credit Card,22510.55,Bangalore,local,0.1,Safe
+Credit Card,15054.53,London,local,0.1,Safe
+Credit Card,14351.24,Mumbai,local,0.1,Safe
+Credit Card,4002.5,Dubai,local,0.1,Safe
+Credit Card,27898.71,Delhi,local,0.1,Safe
+Credit Card,12400.2,Dubai,local,0.1,Safe
+Credit Card,3014.71,Dubai,local,0.1,Safe
+Credit Card,5813.97,Delhi,local,0.1,Safe
+Credit Card,12968.37,Delhi,local,0.1,Safe
+Credit Card,12518.12,Singapore,international,0.5,Medium
+Credit Card,10914.9,New York,local,0.1,Safe
+Credit Card,3165.81,New York,local,0.1,Safe
+Credit Card,308.69,Singapore,local,0.1,Safe
+Credit Card,12557.4,Dubai,local,0.1,Safe
+Credit Card,8812.84,Mumbai,local,0.1,Safe
+Credit Card,1957.02,Dubai,local,0.1,Safe
+Credit Card,652.38,Delhi,local,0.1,Safe
+Credit Card,24179.21,Mumbai,local,0.1,Safe
+Credit Card,16913.13,Dubai,local,0.1,Safe
+Credit Card,27312.56,Delhi,local,0.1,Safe
+Credit Card,8848.75,Mumbai,local,0.1,Safe
+Credit Card,21138.92,Singapore,local,0.1,Safe
+Credit Card,17964.49,Delhi,local,0.1,Safe
+Credit Card,15744.66,Delhi,local,0.1,Safe
+Credit Card,15458.32,Bangalore,local,0.1,Safe
+Credit Card,9625.49,Mumbai,local,0.1,Safe
+Credit Card,5455.12,London,local,0.1,Safe
+Credit Card,27174.69,New York,local,0.1,Safe
+Credit Card,2152.48,Bangalore,international,0.5,Medium
+Credit Card,5700.09,New York,local,0.1,Safe
+Credit Card,9811.64,Bangalore,local,0.1,Safe
+Credit Card,20785.3,New York,local,0.1,Safe
+Credit Card,1584.9,Singapore,international,0.5,Medium
+Credit Card,3777.74,Bangalore,local,0.1,Safe
+Credit Card,3344.36,Delhi,local,0.1,Safe
+Credit Card,2566.37,Delhi,local,0.1,Safe
+Credit Card,14905.05,New York,local,0.1,Safe
+Credit Card,20371.28,Delhi,local,0.1,Safe
+Credit Card,38011.97,New York,local,0.1,Safe
+Credit Card,13456.39,London,local,0.1,Safe
+Credit Card,11030.81,London,local,0.1,Safe
+Credit Card,13774.01,Mumbai,local,0.1,Safe
+Credit Card,754.1,Delhi,local,0.1,Safe
+Credit Card,20167.93,Delhi,local,0.1,Safe
+Credit Card,38079.78,Dubai,local,0.1,Safe
+Credit Card,2767.44,Delhi,local,0.1,Safe
+Credit Card,13555.51,Mumbai,local,0.1,Safe
+Credit Card,14841.32,Dubai,local,0.1,Safe
+Credit Card,36113.62,Mumbai,international,0.5,Medium
+Credit Card,13766.4,Bangalore,local,0.1,Safe
+Credit Card,12604.31,Delhi,local,0.1,Safe
+Credit Card,9972.12,New York,local,0.1,Safe
+Credit Card,67755.27,New York,local,0.1,Safe
+Credit Card,1881.03,New York,local,0.1,Safe
+Credit Card,2598.82,New York,local,0.1,Safe
+Credit Card,5181.09,London,local,0.1,Safe
+Credit Card,8548.05,Mumbai,local,0.1,Safe
+Credit Card,95.49,Delhi,local,0.1,Safe
+Credit Card,19892.93,Delhi,local,0.1,Safe
+Credit Card,4784.66,London,international,0.5,Medium
+Credit Card,438.16,Dubai,local,0.1,Safe
+Credit Card,28796.09,Dubai,local,0.1,Safe
+Credit Card,4238.73,New York,local,0.1,Safe
+Credit Card,43727.56,Singapore,local,0.1,Safe
+Credit Card,2480.82,New York,international,0.5,Medium
+Credit Card,5616.03,Bangalore,local,0.1,Safe
+Credit Card,26086.79,Dubai,local,0.1,Safe
+Credit Card,46050.88,London,local,0.1,Safe
+Credit Card,3427.9,New York,local,0.1,Safe
+Credit Card,3788.76,New York,local,0.1,Safe
+Credit Card,5052.31,Bangalore,local,0.1,Safe
+Credit Card,18094.57,Bangalore,local,0.1,Safe
+Credit Card,6734.44,Delhi,local,0.1,Safe
+Credit Card,4206.53,Singapore,local,0.1,Safe
+Credit Card,13949.4,Bangalore,local,0.1,Safe
+Credit Card,30415.35,Bangalore,local,0.1,Safe
+Credit Card,7354.97,Singapore,local,0.1,Safe
+Credit Card,15306.32,Mumbai,local,0.1,Safe
+Credit Card,18250.3,Dubai,local,0.1,Safe
+Credit Card,31782.52,Dubai,local,0.1,Safe
+Credit Card,2389.98,London,local,0.1,Safe
+Credit Card,29976.7,Mumbai,local,0.1,Safe
+Credit Card,5528.08,Dubai,local,0.1,Safe
+Credit Card,11895.91,Delhi,international,0.5,Medium
+Credit Card,30376.29,Mumbai,local,0.1,Safe
+Credit Card,14058.36,Delhi,local,0.1,Safe
+Credit Card,28134.68,New York,local,0.1,Safe
+Credit Card,2434.11,Delhi,local,0.1,Safe
+Credit Card,9901.96,London,local,0.1,Safe
+Credit Card,11612.86,Singapore,local,0.1,Safe
+Credit Card,16906.9,London,local,0.1,Safe
+Credit Card,771.59,Delhi,local,0.1,Safe
+Credit Card,4706.98,New York,local,0.1,Safe
+Credit Card,171.73,Bangalore,local,0.1,Safe
+Credit Card,4636.03,Delhi,local,0.1,Safe
+Credit Card,13250.42,Mumbai,local,0.1,Safe
+Credit Card,13353.2,London,local,0.1,Safe
+Credit Card,8633.51,New York,local,0.1,Safe
+Credit Card,29273.17,Mumbai,local,0.1,Safe
+Credit Card,17349.2,Singapore,local,0.1,Safe
+Credit Card,4430.99,New York,local,0.1,Safe
+Credit Card,52984.55,London,local,0.1,Safe
+Credit Card,7492.6,New York,local,0.1,Safe
+Credit Card,24132.24,Delhi,local,0.1,Safe
+Credit Card,3240.87,Singapore,local,0.1,Safe
+Credit Card,6808.81,Mumbai,local,0.1,Safe
+Credit Card,13585.27,London,local,0.1,Safe
+Credit Card,5555.08,New York,international,0.5,Medium
+Credit Card,10286.57,Dubai,local,0.1,Safe
+Credit Card,12141.05,Singapore,local,0.1,Safe
+Credit Card,535.37,New York,local,0.1,Safe
+Credit Card,2653.23,Dubai,local,0.1,Safe
+Credit Card,14099.12,Mumbai,local,0.1,Safe
+Credit Card,6354.29,New York,local,0.1,Safe
+Credit Card,18107.8,New York,local,0.1,Safe
+Credit Card,1043.35,Mumbai,local,0.1,Safe
+Credit Card,2718.0,Mumbai,international,0.5,Medium
+Credit Card,12720.22,New York,local,0.1,Safe
+Credit Card,7365.61,New York,local,0.1,Safe
+Credit Card,8111.33,Bangalore,local,0.1,Safe
+Credit Card,2113.23,Mumbai,local,0.1,Safe
+Credit Card,33504.93,Dubai,international,0.5,Medium
+Credit Card,41828.26,Delhi,local,0.1,Safe
+Credit Card,31246.86,London,local,0.1,Safe
+Credit Card,11913.96,Delhi,local,0.1,Safe
+Credit Card,25193.39,Singapore,local,0.1,Safe
+Credit Card,27401.43,Singapore,local,0.1,Safe
+Credit Card,37342.39,New York,local,0.1,Safe
+Credit Card,57503.91,New York,local,0.1,Safe
+Credit Card,33685.0,Dubai,local,0.1,Safe
+Credit Card,3505.29,Singapore,local,0.1,Safe
+Credit Card,7791.27,Delhi,local,0.1,Safe
+Credit Card,13005.64,Singapore,international,0.5,Medium
+Credit Card,953.08,London,local,0.1,Safe
+Credit Card,57397.95,Delhi,local,0.1,Safe
+Credit Card,22858.88,Singapore,international,0.5,Medium
+Credit Card,2959.58,Bangalore,local,0.1,Safe
+Credit Card,30283.11,Delhi,local,0.1,Safe
+Credit Card,2482.29,London,local,0.1,Safe
+Credit Card,384.3,Singapore,local,0.1,Safe
+Credit Card,45597.87,Dubai,local,0.1,Safe
+Credit Card,60757.73,Delhi,local,0.1,Safe
+Credit Card,9278.28,Bangalore,local,0.1,Safe
+Credit Card,356.53,London,local,0.1,Safe
+Credit Card,18779.37,Delhi,local,0.1,Safe
+Credit Card,11674.29,Delhi,local,0.1,Safe
+Credit Card,18323.44,Delhi,local,0.1,Safe
+Credit Card,4202.53,Bangalore,local,0.1,Safe
+Credit Card,75461.63,Delhi,local,0.1,Safe
+Credit Card,8507.29,Singapore,local,0.1,Safe
+Credit Card,22388.76,Bangalore,local,0.1,Safe
+Credit Card,13455.15,London,local,0.1,Safe
+Credit Card,45180.95,Singapore,local,0.1,Safe
+Credit Card,4141.48,London,international,0.5,Medium
+Credit Card,12822.46,Dubai,local,0.1,Safe
+Credit Card,14677.79,Dubai,local,0.1,Safe
+Credit Card,33891.41,Mumbai,local,0.1,Safe
+Credit Card,4194.74,Mumbai,local,0.1,Safe
+Credit Card,9744.91,Delhi,local,0.1,Safe
+Credit Card,15769.25,Dubai,local,0.1,Safe
+Credit Card,4879.0,New York,local,0.1,Safe
+Credit Card,55073.16,Bangalore,local,0.1,Safe
+Credit Card,13042.57,Mumbai,local,0.1,Safe
+Credit Card,6732.64,Mumbai,international,0.5,Medium
+Credit Card,7683.2,Bangalore,local,0.1,Safe
+Credit Card,9012.79,Singapore,international,0.5,Medium
+Credit Card,10065.28,Singapore,local,0.1,Safe
+Credit Card,17680.96,Mumbai,international,0.5,Medium
+Credit Card,405.23,Singapore,local,0.1,Safe
+Credit Card,7916.0,New York,local,0.1,Safe
+Credit Card,758.31,Bangalore,local,0.1,Safe
+Credit Card,7084.08,Delhi,local,0.1,Safe
+Credit Card,3688.38,Mumbai,local,0.1,Safe
+Credit Card,14785.59,New York,local,0.1,Safe
+Credit Card,14886.2,London,local,0.1,Safe
+Credit Card,4565.96,Singapore,local,0.1,Safe
+Credit Card,4652.12,Dubai,local,0.1,Safe
+Credit Card,7254.04,London,local,0.1,Safe
+Credit Card,36452.5,Singapore,local,0.1,Safe
+Credit Card,6325.38,Delhi,local,0.1,Safe
+Credit Card,56422.71,New York,local,0.1,Safe
+Credit Card,25462.51,Delhi,local,0.1,Safe
+Credit Card,36606.35,New York,local,0.1,Safe
+Credit Card,1502.38,New York,local,0.1,Safe
+Credit Card,18360.21,Dubai,international,0.5,Medium
+Credit Card,22832.84,Mumbai,international,0.5,Medium
+Credit Card,7724.96,New York,local,0.1,Safe
+Credit Card,5942.69,Bangalore,local,0.1,Safe
+Credit Card,19059.58,Bangalore,local,0.1,Safe
+Credit Card,22429.62,Bangalore,local,0.1,Safe
+Credit Card,8341.5,London,local,0.1,Safe
+Credit Card,13909.08,Mumbai,local,0.1,Safe
+Credit Card,1432.47,Mumbai,local,0.1,Safe
+Credit Card,5290.14,London,local,0.1,Safe
+Credit Card,2615.26,Delhi,local,0.1,Safe
+Credit Card,802.13,New York,local,0.1,Safe
+Credit Card,7395.65,Bangalore,local,0.1,Safe
+Credit Card,3136.7,Mumbai,local,0.1,Safe
+Credit Card,31229.35,New York,local,0.1,Safe
+Credit Card,2312.33,Singapore,local,0.1,Safe
+Credit Card,14386.29,Mumbai,local,0.1,Safe
+Credit Card,6211.64,Singapore,local,0.1,Safe
+Credit Card,9879.94,Dubai,local,0.1,Safe
+Credit Card,1046.73,Delhi,local,0.1,Safe
+Credit Card,976.75,Delhi,local,0.1,Safe
+Credit Card,26453.12,Delhi,international,0.5,Medium
+Credit Card,4445.0,New York,local,0.1,Safe
+Credit Card,10525.35,Singapore,local,0.1,Safe
+Credit Card,13255.93,Singapore,local,0.1,Safe
+Credit Card,1743.76,Mumbai,local,0.1,Safe
+Credit Card,9558.04,New York,local,0.1,Safe
+Credit Card,18601.2,Bangalore,local,0.1,Safe
+Credit Card,772.7,Dubai,local,0.1,Safe
+Credit Card,7367.06,Bangalore,international,0.5,Medium
+Credit Card,20139.1,Delhi,local,0.1,Safe
+Credit Card,8598.17,Dubai,international,0.5,Medium
+Credit Card,24711.64,Mumbai,local,0.1,Safe
+Credit Card,10757.65,Dubai,local,0.1,Safe
+Credit Card,3573.89,London,local,0.1,Safe
+Credit Card,3341.5,New York,local,0.1,Safe
+Credit Card,999.71,London,local,0.1,Safe
+Credit Card,2816.6,Dubai,local,0.1,Safe
+Credit Card,18241.8,London,local,0.1,Safe
+Credit Card,38197.41,London,local,0.1,Safe
+Credit Card,598.7,London,local,0.1,Safe
+Credit Card,1575.6,New York,local,0.1,Safe
+Credit Card,5093.28,London,international,0.5,Medium
+Credit Card,2212.86,Delhi,local,0.1,Safe
+Credit Card,1519.49,Delhi,local,0.1,Safe
+Credit Card,13277.27,Dubai,local,0.1,Safe
+Credit Card,4692.5,Bangalore,local,0.1,Safe
+Credit Card,39432.85,London,local,0.1,Safe
+Credit Card,251.11,Bangalore,local,0.1,Safe
+Credit Card,9702.94,Singapore,local,0.1,Safe
+Credit Card,33297.82,Mumbai,local,0.1,Safe
+Credit Card,15022.57,Dubai,local,0.1,Safe
+Credit Card,413.99,Singapore,local,0.1,Safe
+Credit Card,77.75,Bangalore,local,0.1,Safe
+Credit Card,24691.26,New York,local,0.1,Safe
+Credit Card,8378.41,Delhi,local,0.1,Safe
+Credit Card,12809.39,New York,international,0.5,Medium
+Credit Card,1983.44,Singapore,local,0.1,Safe
+Credit Card,325.33,New York,local,0.1,Safe
+Credit Card,29676.72,New York,local,0.1,Safe
+Credit Card,744.45,Bangalore,local,0.1,Safe
+Credit Card,9316.39,London,local,0.1,Safe
+Credit Card,13659.85,Delhi,local,0.1,Safe
+Credit Card,28965.29,Delhi,local,0.1,Safe
+Credit Card,22354.57,Dubai,local,0.1,Safe
+Credit Card,11431.72,London,local,0.1,Safe
+Credit Card,2865.41,New York,local,0.1,Safe
+Credit Card,10113.23,Dubai,local,0.1,Safe
+Credit Card,23068.44,Dubai,local,0.1,Safe
+Credit Card,7586.64,Singapore,local,0.1,Safe
+Credit Card,895.53,New York,local,0.1,Safe
+Credit Card,43879.36,Singapore,local,0.1,Safe
+Credit Card,20982.29,Mumbai,local,0.1,Safe
+Credit Card,9747.3,Mumbai,international,0.5,Medium
+Credit Card,26398.54,Bangalore,local,0.1,Safe
+Credit Card,1471.37,Singapore,local,0.1,Safe
+Credit Card,42299.73,Dubai,local,0.1,Safe
+Credit Card,2233.24,New York,local,0.1,Safe
+Credit Card,6731.4,London,local,0.1,Safe
+Credit Card,3785.16,Bangalore,local,0.1,Safe
+Credit Card,30897.74,Mumbai,local,0.1,Safe
+Credit Card,21306.81,Singapore,local,0.1,Safe
+Credit Card,25523.75,Mumbai,local,0.1,Safe
+Credit Card,5702.3,Singapore,local,0.1,Safe
+Credit Card,15850.03,New York,local,0.1,Safe
+Credit Card,32283.13,Singapore,local,0.1,Safe
+Credit Card,9499.05,London,international,0.5,Medium
+Credit Card,7146.08,London,local,0.1,Safe
+Credit Card,1114.05,Singapore,local,0.1,Safe
+Credit Card,4577.85,Bangalore,local,0.1,Safe
+Credit Card,43134.36,Singapore,local,0.1,Safe
+Credit Card,25954.7,Bangalore,local,0.1,Safe
+Credit Card,14516.75,New York,local,0.1,Safe
+Credit Card,12348.94,Dubai,local,0.1,Safe
+Credit Card,24419.5,Mumbai,local,0.1,Safe
+Credit Card,10910.79,London,local,0.1,Safe
+Credit Card,8390.33,London,local,0.1,Safe
+Credit Card,41314.59,Mumbai,international,0.5,Medium
+Credit Card,2097.9,Mumbai,local,0.1,Safe
+Credit Card,10956.27,Dubai,local,0.1,Safe
+Credit Card,4896.88,Singapore,local,0.1,Safe
+Credit Card,1192.09,Mumbai,local,0.1,Safe
+Credit Card,12030.66,Dubai,local,0.1,Safe
+Credit Card,28713.13,Singapore,local,0.1,Safe
+Credit Card,13914.73,Mumbai,local,0.1,Safe
+Credit Card,7842.42,Delhi,local,0.1,Safe
+Credit Card,12638.33,Dubai,local,0.1,Safe
+Credit Card,12284.71,London,local,0.1,Safe
+Credit Card,4200.69,Delhi,local,0.1,Safe
+Credit Card,4505.74,Bangalore,local,0.1,Safe
+Credit Card,10373.62,London,local,0.1,Safe
+Credit Card,7931.81,Mumbai,local,0.1,Safe
+Credit Card,6362.27,Bangalore,international,0.5,Medium
+Credit Card,5552.77,Singapore,local,0.1,Safe
+Credit Card,10360.28,Dubai,local,0.1,Safe
+Credit Card,12063.62,Mumbai,local,0.1,Safe
+Credit Card,13530.88,New York,local,0.1,Safe
+Credit Card,14318.64,London,local,0.1,Safe
+Credit Card,47291.13,Mumbai,local,0.1,Safe
+Credit Card,43012.95,London,local,0.1,Safe
+Credit Card,32652.88,Bangalore,international,0.5,Medium
+Credit Card,59589.11,London,local,0.1,Safe
+Credit Card,8091.0,New York,local,0.1,Safe
+Credit Card,14647.92,Delhi,local,0.1,Safe
+Credit Card,20043.78,Singapore,local,0.1,Safe
+Credit Card,13260.58,Delhi,local,0.1,Safe
+Credit Card,384.33,Singapore,international,0.5,Medium
+Credit Card,4690.47,London,local,0.1,Safe
+Credit Card,6625.19,Delhi,local,0.1,Safe
+Credit Card,24989.54,Delhi,local,0.1,Safe
+Credit Card,27601.25,Dubai,local,0.1,Safe
+Credit Card,35123.24,Bangalore,local,0.1,Safe
+Credit Card,19745.6,Singapore,local,0.1,Safe
+Credit Card,12689.19,Mumbai,local,0.1,Safe
+Credit Card,16304.63,London,local,0.1,Safe
+Credit Card,6758.11,Singapore,local,0.1,Safe
+Credit Card,6071.79,Singapore,local,0.1,Safe
+Credit Card,21606.06,London,international,0.5,Medium
+Credit Card,5689.66,Bangalore,local,0.1,Safe
+Credit Card,18299.16,New York,local,0.1,Safe
+Credit Card,99905.57,Singapore,local,0.1,Safe
+Credit Card,21810.58,Mumbai,international,0.5,Medium
+Credit Card,13662.5,Dubai,local,0.1,Safe
+Credit Card,2725.26,London,international,0.5,Medium
+Credit Card,11166.42,London,local,0.1,Safe
+Credit Card,15647.52,Singapore,local,0.1,Safe
+Credit Card,6909.21,London,local,0.1,Safe
+Credit Card,22111.94,London,local,0.1,Safe
+Credit Card,16858.12,New York,local,0.1,Safe
+Credit Card,1825.8,New York,local,0.1,Safe
+Credit Card,11753.38,Mumbai,international,0.5,Medium
+Credit Card,29983.57,Bangalore,local,0.1,Safe
+Credit Card,9824.19,Dubai,local,0.1,Safe
+Credit Card,31606.63,Bangalore,local,0.1,Safe
+Credit Card,18133.49,Delhi,local,0.1,Safe
+Credit Card,717.04,Bangalore,local,0.1,Safe
+Credit Card,3946.23,London,local,0.1,Safe
+Credit Card,29944.65,Bangalore,local,0.1,Safe
+Credit Card,13053.45,Bangalore,local,0.1,Safe
+Credit Card,3898.1,Delhi,local,0.1,Safe
+Credit Card,11864.51,Mumbai,local,0.1,Safe
+Credit Card,7628.07,Singapore,local,0.1,Safe
+Credit Card,10759.65,Singapore,local,0.1,Safe
+Credit Card,2296.71,Dubai,local,0.1,Safe
+Credit Card,1122.49,Dubai,local,0.1,Safe
+Credit Card,11034.44,Bangalore,local,0.1,Safe
+Credit Card,21685.54,Dubai,local,0.1,Safe
+Credit Card,34993.87,Dubai,local,0.1,Safe
+Credit Card,2274.57,Dubai,local,0.1,Safe
+Credit Card,10436.08,Singapore,international,0.5,Medium
+Credit Card,34990.31,Bangalore,local,0.1,Safe
+Credit Card,63195.43,Singapore,local,0.1,Safe
+Credit Card,3379.91,Delhi,local,0.1,Safe
+Credit Card,12671.22,Mumbai,local,0.1,Safe
+Credit Card,53177.24,Dubai,local,0.1,Safe
+Credit Card,11365.1,Singapore,local,0.1,Safe
+Credit Card,9306.68,Delhi,local,0.1,Safe
+Credit Card,3163.36,London,local,0.1,Safe
+Credit Card,960.03,Dubai,local,0.1,Safe
+Credit Card,24455.35,Mumbai,local,0.1,Safe
+Credit Card,11182.33,Bangalore,local,0.1,Safe
+Credit Card,10798.33,New York,local,0.1,Safe
+Credit Card,4302.27,Dubai,local,0.1,Safe
+Credit Card,13921.27,Singapore,local,0.1,Safe
+Credit Card,1042.32,Bangalore,local,0.1,Safe
+Credit Card,4965.06,Dubai,local,0.1,Safe
+Credit Card,16760.42,Mumbai,local,0.1,Safe
+Credit Card,8389.47,Mumbai,local,0.1,Safe
+Credit Card,32206.27,Singapore,international,0.5,Medium
+Credit Card,20652.03,London,international,0.5,Medium
+Credit Card,18737.88,New York,local,0.1,Safe
+Credit Card,3087.2,Mumbai,local,0.1,Safe
+Credit Card,9735.0,London,international,0.5,Medium
+Credit Card,2750.71,Mumbai,local,0.1,Safe
+Credit Card,3041.96,Bangalore,local,0.1,Safe
+Credit Card,111.21,Mumbai,local,0.1,Safe
+Credit Card,23281.05,Bangalore,local,0.1,Safe
+Credit Card,1132.78,Bangalore,local,0.1,Safe
+Credit Card,452.71,New York,local,0.1,Safe
+Credit Card,7559.17,Dubai,local,0.1,Safe
+Credit Card,44860.93,New York,local,0.1,Safe
+Credit Card,38448.85,Delhi,local,0.1,Safe
+Credit Card,38976.07,Bangalore,local,0.1,Safe
+Credit Card,2751.45,Mumbai,local,0.1,Safe
+Credit Card,40780.42,London,local,0.1,Safe
+Credit Card,2682.6,Mumbai,local,0.1,Safe
+Credit Card,3859.83,Mumbai,local,0.1,Safe
+Credit Card,5201.18,London,local,0.1,Safe
+Credit Card,12624.08,London,international,0.5,Medium
+Credit Card,2076.32,New York,local,0.1,Safe
+Credit Card,17624.02,Bangalore,local,0.1,Safe
+Credit Card,9461.98,New York,local,0.1,Safe
+Credit Card,2898.06,Singapore,local,0.1,Safe
+Credit Card,18143.03,New York,local,0.1,Safe
+Credit Card,197.28,Bangalore,local,0.1,Safe
+Credit Card,22297.6,Mumbai,local,0.1,Safe
+Credit Card,14283.88,Mumbai,local,0.1,Safe
+Credit Card,24641.51,Dubai,local,0.1,Safe
+Credit Card,32188.97,Delhi,local,0.1,Safe
+Credit Card,3534.64,Dubai,local,0.1,Safe
+Credit Card,10920.39,Singapore,local,0.1,Safe
+Credit Card,31796.91,Delhi,local,0.1,Safe
+Credit Card,58380.87,Mumbai,local,0.1,Safe
+Credit Card,7057.33,Bangalore,local,0.1,Safe
+Credit Card,10773.83,Bangalore,local,0.1,Safe
+Credit Card,22194.15,Singapore,local,0.1,Safe
+Credit Card,20258.2,Delhi,local,0.1,Safe
+Credit Card,9394.47,Dubai,local,0.1,Safe
+Credit Card,37023.46,London,international,0.5,Medium
+Credit Card,13283.16,New York,local,0.1,Safe
+Credit Card,41077.5,Dubai,international,0.5,Medium
+Credit Card,2918.84,Singapore,local,0.1,Safe
+Credit Card,6951.35,Bangalore,international,0.5,Medium
+Credit Card,48707.91,Mumbai,local,0.1,Safe
+Credit Card,156.15,Singapore,local,0.1,Safe
+Credit Card,18219.02,Dubai,local,0.1,Safe
+Credit Card,947.29,Delhi,local,0.1,Safe
+Credit Card,3626.95,Mumbai,local,0.1,Safe
+Credit Card,15479.44,Dubai,local,0.1,Safe
+Credit Card,1936.41,London,local,0.1,Safe
+Credit Card,8597.37,New York,local,0.1,Safe
+Credit Card,49568.81,London,local,0.1,Safe
+Credit Card,5887.44,London,local,0.1,Safe
+Credit Card,7601.04,New York,local,0.1,Safe
+Credit Card,7353.46,Singapore,local,0.1,Safe
+Credit Card,6965.62,Dubai,local,0.1,Safe
+Credit Card,38393.34,Delhi,local,0.1,Safe
+Credit Card,20904.64,Delhi,local,0.1,Safe
+Credit Card,36190.42,Bangalore,local,0.1,Safe
+Credit Card,6119.93,Singapore,local,0.1,Safe
+Credit Card,58255.3,New York,local,0.1,Safe
+Credit Card,603.38,London,local,0.1,Safe
+Credit Card,7296.82,Bangalore,local,0.1,Safe
+Credit Card,10062.78,Delhi,local,0.1,Safe
+Credit Card,20406.22,Singapore,international,0.5,Medium
+Credit Card,6394.39,Delhi,international,0.5,Medium
+Credit Card,17167.39,New York,local,0.1,Safe
+Credit Card,12006.23,Bangalore,local,0.1,Safe
+Credit Card,33348.22,Delhi,local,0.1,Safe
+Credit Card,25324.82,Mumbai,local,0.1,Safe
+Credit Card,6764.67,Mumbai,local,0.1,Safe
+Credit Card,10363.35,Dubai,local,0.1,Safe
+Credit Card,13363.29,Dubai,local,0.1,Safe
+Credit Card,714.92,London,local,0.1,Safe
+Credit Card,27847.51,Delhi,local,0.1,Safe
+Credit Card,239.24,New York,local,0.1,Safe
+Credit Card,4122.93,Singapore,local,0.1,Safe
+Credit Card,13612.18,Dubai,international,0.5,Medium
+Credit Card,8653.74,New York,international,0.5,Medium
+Credit Card,6063.72,Mumbai,international,0.5,Medium
+Credit Card,10835.16,Delhi,local,0.1,Safe
+Credit Card,833.5,Mumbai,local,0.1,Safe
+Credit Card,16654.97,New York,local,0.1,Safe
+Credit Card,11999.82,London,local,0.1,Safe
+Credit Card,8407.01,New York,international,0.5,Medium
+Credit Card,4406.7,New York,local,0.1,Safe
+Credit Card,2945.03,Singapore,local,0.1,Safe
+Credit Card,48738.32,New York,local,0.1,Safe
+Credit Card,6081.72,Delhi,local,0.1,Safe
+Credit Card,1125.11,Singapore,local,0.1,Safe
+Credit Card,17722.76,Singapore,local,0.1,Safe
+Credit Card,42108.92,Bangalore,local,0.1,Safe
+Credit Card,32561.8,Bangalore,local,0.1,Safe
+Credit Card,8556.4,Singapore,local,0.1,Safe
+Credit Card,2903.42,Singapore,local,0.1,Safe
+Credit Card,35150.12,Bangalore,local,0.1,Safe
+Credit Card,9745.12,Dubai,local,0.1,Safe
+Credit Card,11767.64,Dubai,local,0.1,Safe
+Credit Card,30446.07,Dubai,local,0.1,Safe
+Credit Card,16955.14,Singapore,local,0.1,Safe
+Credit Card,12726.26,Dubai,local,0.1,Safe
+Credit Card,6743.8,New York,international,0.5,Medium
+Credit Card,17122.9,Delhi,international,0.5,Medium
+Credit Card,8410.68,Mumbai,local,0.1,Safe
+Credit Card,49963.07,Delhi,local,0.1,Safe
+Credit Card,8855.3,Bangalore,local,0.1,Safe
+Credit Card,4005.26,London,local,0.1,Safe
+Credit Card,9386.23,Bangalore,local,0.1,Safe
+Credit Card,18685.15,Singapore,local,0.1,Safe
+Credit Card,159.26,London,local,0.1,Safe
+Credit Card,6735.36,Bangalore,local,0.1,Safe
+Credit Card,48658.39,Singapore,local,0.1,Safe
+Credit Card,22652.55,New York,local,0.1,Safe
+Credit Card,39639.23,London,international,0.5,Medium
+Credit Card,25505.42,Singapore,local,0.1,Safe
+Credit Card,15065.15,Dubai,local,0.1,Safe
+Credit Card,54851.66,London,local,0.1,Safe
+Credit Card,14028.42,Delhi,local,0.1,Safe
+Credit Card,5246.78,Delhi,local,0.1,Safe
+Credit Card,16538.5,Bangalore,local,0.1,Safe
+Credit Card,10599.73,Delhi,local,0.1,Safe
+Credit Card,16204.21,London,local,0.1,Safe
+Credit Card,7098.84,Delhi,local,0.1,Safe
+Credit Card,6644.52,Dubai,local,0.1,Safe
+Credit Card,5671.82,New York,local,0.1,Safe
+Credit Card,25102.25,New York,local,0.1,Safe
+Credit Card,20882.6,Bangalore,local,0.1,Safe
+Credit Card,5706.07,Dubai,international,0.5,Medium
+Credit Card,35409.9,Bangalore,local,0.1,Safe
+Credit Card,10816.95,Dubai,local,0.1,Safe
+Credit Card,53024.93,Mumbai,local,0.1,Safe
+Credit Card,13960.74,Dubai,local,0.1,Safe
+Credit Card,4750.31,Mumbai,international,0.5,Medium
+Credit Card,37822.96,Bangalore,local,0.1,Safe
+Credit Card,7888.12,London,international,0.5,Medium
+Credit Card,6421.85,Mumbai,local,0.1,Safe
+Credit Card,14306.54,London,local,0.1,Safe
+Credit Card,7508.79,Dubai,local,0.1,Safe
+Credit Card,14136.76,Delhi,local,0.1,Safe
+Credit Card,7065.46,New York,local,0.1,Safe
+Credit Card,17064.76,Dubai,local,0.1,Safe
+Credit Card,9343.92,Dubai,local,0.1,Safe
+Credit Card,7123.46,London,local,0.1,Safe
+Credit Card,22747.67,Delhi,local,0.1,Safe
+Credit Card,10900.78,Dubai,local,0.1,Safe
+Credit Card,5722.04,Bangalore,local,0.1,Safe
+Credit Card,3632.03,London,local,0.1,Safe
+Credit Card,109787.37,Bangalore,local,0.1,Safe
+Credit Card,6567.55,Bangalore,local,0.1,Safe
+Credit Card,976.14,New York,local,0.1,Safe
+Credit Card,3353.44,London,local,0.1,Safe
+Credit Card,7124.04,New York,local,0.1,Safe
+Credit Card,60629.66,Delhi,local,0.1,Safe
+Credit Card,25140.22,Bangalore,local,0.1,Safe
+Credit Card,8328.32,New York,local,0.1,Safe
+Credit Card,882.39,Bangalore,local,0.1,Safe
+Credit Card,22251.69,Dubai,local,0.1,Safe
+Credit Card,29290.69,Bangalore,local,0.1,Safe
+Credit Card,2420.69,Bangalore,local,0.1,Safe
+Credit Card,9726.2,Singapore,local,0.1,Safe
+Credit Card,13286.67,London,local,0.1,Safe
+Credit Card,7313.99,Mumbai,local,0.1,Safe
+Credit Card,6616.03,Bangalore,local,0.1,Safe
+Credit Card,38186.5,London,local,0.1,Safe
+Credit Card,19555.82,New York,local,0.1,Safe
+Credit Card,60646.16,Singapore,local,0.1,Safe
+Credit Card,1773.54,New York,local,0.1,Safe
+Credit Card,8967.01,Mumbai,local,0.1,Safe
+Credit Card,14079.92,London,local,0.1,Safe
+Credit Card,1252.27,Singapore,local,0.1,Safe
+Credit Card,2972.45,Singapore,international,0.5,Medium
+Credit Card,226.31,Bangalore,local,0.1,Safe
+Credit Card,3657.05,Bangalore,local,0.1,Safe
+Credit Card,12367.2,Dubai,local,0.1,Safe
+Credit Card,7223.59,Mumbai,local,0.1,Safe
+Credit Card,8446.85,Dubai,international,0.5,Medium
+Credit Card,2805.28,Delhi,international,0.5,Medium
+Credit Card,42957.17,Dubai,local,0.1,Safe
+Credit Card,29548.78,Dubai,local,0.1,Safe
+Credit Card,12174.81,New York,local,0.1,Safe
+Credit Card,31899.11,Mumbai,local,0.1,Safe
+Credit Card,8787.48,Dubai,local,0.1,Safe
+Credit Card,5050.55,Mumbai,international,0.5,Medium
+Credit Card,61461.58,Mumbai,local,0.1,Safe
+Credit Card,5077.55,Singapore,local,0.1,Safe
+Credit Card,23714.5,Bangalore,local,0.1,Safe
+Credit Card,7988.52,New York,local,0.1,Safe
+Credit Card,40587.84,Delhi,local,0.1,Safe
+Credit Card,800.48,Delhi,local,0.1,Safe
+Credit Card,4274.44,Dubai,local,0.1,Safe
+Credit Card,5509.32,Singapore,local,0.1,Safe
+Credit Card,4547.62,London,local,0.1,Safe
+Credit Card,3762.57,Singapore,local,0.1,Safe
+Credit Card,3999.56,New York,international,0.5,Medium
+Credit Card,31645.14,Delhi,local,0.1,Safe
+Credit Card,17516.2,London,local,0.1,Safe
+Credit Card,59.75,Singapore,local,0.1,Safe
+Credit Card,23892.97,Dubai,local,0.1,Safe
+Credit Card,7616.89,Mumbai,local,0.1,Safe
+Credit Card,3710.45,Mumbai,local,0.1,Safe
+Credit Card,7333.43,London,local,0.1,Safe
+Credit Card,26860.48,Singapore,international,0.5,Medium
+Credit Card,19908.66,Mumbai,local,0.1,Safe
+Credit Card,13470.97,Dubai,local,0.1,Safe
+Credit Card,15383.17,Singapore,local,0.1,Safe
+Credit Card,15295.06,Dubai,local,0.1,Safe
+Credit Card,29170.11,Mumbai,local,0.1,Safe
+Credit Card,18071.92,Singapore,local,0.1,Safe
+Credit Card,2566.1,London,local,0.1,Safe
+Credit Card,2684.07,London,local,0.1,Safe
+Credit Card,1350.85,Delhi,local,0.1,Safe
+Credit Card,3043.43,Singapore,local,0.1,Safe
+Credit Card,609.7,London,local,0.1,Safe
+Credit Card,5763.4,New York,local,0.1,Safe
+Credit Card,8306.08,London,international,0.5,Medium
+Credit Card,3241.71,Singapore,local,0.1,Safe
+Credit Card,2105.07,New York,local,0.1,Safe

@@ -1,0 +1,6 @@
+TransactionType,Amount,BeneficiaryStatus,BankType,BaseRisk,TotalRisk,Status
+NEFT,10000,known,same,0.1,0.1,Safe
+NEFT,50000,unknown,same,0.3,0.6,Medium
+NEFT,75000,unknown,different,0.4,0.85,Danger
+NEFT,250000,known,same,0.7,0.7,Danger
+NEFT,5000,known,different,0.1,0.25,Safe

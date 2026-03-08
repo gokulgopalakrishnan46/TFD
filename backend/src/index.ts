@@ -16,7 +16,10 @@ app.use(express.json());
 
 // Request logger
 app.use((req, res, next) => {
-    console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);
+    console.log(`${new Date().toISOString()} - ${req.method} ${req.originalUrl}`);
+    if (req.method !== 'GET') {
+        console.log('Body:', JSON.stringify(req.body, null, 2));
+    }
     next();
 });
 
@@ -26,7 +29,7 @@ app.use('/api/transactions', transactionRoutes);
 
 // Basic health check
 app.get('/', (req, res) => {
-    res.send('Fraud Detection API is running');
+    res.send('Fraud Lens API is running');
 });
 
 // Start server

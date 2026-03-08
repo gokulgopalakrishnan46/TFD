@@ -35,7 +35,7 @@ def train():
         return
 
     # Preprocess
-    X, scaler, le = preprocess_data(df, is_training=True)
+    X, scaler, encoders = preprocess_data(df, is_training=True)
     
     # 1. Unsupervised: Isolation Forest (for anomaly detection)
     iso_forest = IsolationForest(contamination=0.05, random_state=42)
@@ -56,7 +56,7 @@ def train():
     joblib.dump(iso_forest, 'model/isolation_forest.pkl')
     joblib.dump(rf_clf, 'model/random_forest.pkl')
     joblib.dump(scaler, 'model/scaler.pkl')
-    joblib.dump(le, 'model/label_encoder.pkl')
+    joblib.dump(encoders, 'model/encoders.pkl')
     
     print("Models trained and exported to model/ directory.")
 

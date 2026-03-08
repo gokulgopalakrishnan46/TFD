@@ -1,0 +1,6 @@
+TransactionType,Amount,IsKnownEntity,BaseRisk,TotalRisk,Status
+UPI,500,yes,0.1,0.1,Safe
+UPI,15000,no,0.3,0.55,Medium
+UPI,60000,no,0.5,0.75,Danger
+UPI,200,yes,0.05,0.05,Safe
+UPI,250000,no,0.9,1.0,Danger

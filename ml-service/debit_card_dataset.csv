@@ -1,0 +1,6 @@
+TransactionType,Amount,MerchantCategory,DebitChannel,BaseRisk,TotalRisk,Status
+Debit Card,1000,food,online,0.1,0.1,Safe
+Debit Card,25000,individual,pos,0.3,0.5,Medium
+Debit Card,60000,utilities,atm,0.4,0.5,Medium
+Debit Card,75000,individual,atm,0.5,0.8,Danger
+Debit Card,220000,retail,pos,0.8,0.8,Danger

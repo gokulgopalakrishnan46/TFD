@@ -23,6 +23,7 @@ const register = (req, res) => __awaiter(void 0, void 0, void 0, function* () {
         // Check if user exists
         const existingUser = yield prismaClient_1.default.user.findUnique({ where: { email } });
         if (existingUser) {
+            console.warn(`Registration failed: User already exists (${email})`);
             return res.status(400).json({ message: 'User already exists' });
         }
         // Hash password
@@ -35,7 +36,13 @@ const register = (req, res) => __awaiter(void 0, void 0, void 0, function* () {
                 name
             }
         });
-        res.status(201).json({ message: 'User created successfully', userId: user.id });
+        // Generate token for auto-login
+        const token = jsonwebtoken_1.default.sign({ userId: user.id, role: user.role }, JWT_SECRET, { expiresIn: '1h' });
+        res.status(201).json({
+            message: 'User created successfully',
+            token,
+            user: { id: user.id, email: user.email, name: user.name, role: user.role }
+        });
     }
     catch (error) {
         console.error(error);
@@ -49,11 +56,13 @@ const login = (req, res) => __awaiter(void 0, void 0, void 0, function* () {
         // Find user
         const user = yield prismaClient_1.default.user.findUnique({ where: { email } });
         if (!user) {
+            console.warn(`Login failed: User not found (${email})`);
             return res.status(400).json({ message: 'Invalid credentials' });
         }
         // Check password
         const isMatch = yield bcryptjs_1.default.compare(password, user.passwordHash);
         if (!isMatch) {
+            console.warn(`Login failed: Incorrect password for (${email})`);
             return res.status(400).json({ message: 'Invalid credentials' });
         }
         // Generate token

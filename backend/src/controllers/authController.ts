@@ -12,6 +12,7 @@ export const register = async (req: Request, res: Response) => {
         // Check if user exists
         const existingUser = await prisma.user.findUnique({ where: { email } });
         if (existingUser) {
+            console.warn(`Registration failed: User already exists (${email})`);
             return res.status(400).json({ message: 'User already exists' });
         }
 
@@ -27,7 +28,14 @@ export const register = async (req: Request, res: Response) => {
             }
         });
 
-        res.status(201).json({ message: 'User created successfully', userId: user.id });
+        // Generate token for auto-login
+        const token = jwt.sign({ userId: user.id, role: user.role }, JWT_SECRET, { expiresIn: '1h' });
+
+        res.status(201).json({
+            message: 'User created successfully',
+            token,
+            user: { id: user.id, email: user.email, name: user.name, role: user.role }
+        });
     } catch (error) {
         console.error(error);
         res.status(500).json({ message: 'Server error' });
@@ -41,12 +49,14 @@ export const login = async (req: Request, res: Response) => {
         // Find user
         const user = await prisma.user.findUnique({ where: { email } });
         if (!user) {
+            console.warn(`Login failed: User not found (${email})`);
             return res.status(400).json({ message: 'Invalid credentials' });
         }
 
         // Check password
         const isMatch = await bcrypt.compare(password, user.passwordHash);
         if (!isMatch) {
+            console.warn(`Login failed: Incorrect password for (${email})`);
             return res.status(400).json({ message: 'Invalid credentials' });
         }
 

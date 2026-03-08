@@ -29,7 +29,7 @@ export const createTransaction = async (req: AuthRequest, res: Response) => {
             const mlResponse = await axios.post(`${ML_SERVICE_URL}/predict`, {
                 type: mlType,
                 amount,
-                accountBalance: parseFloat(accountBalance),
+                accountBalance: accountBalance ? parseFloat(accountBalance) : 0,
                 transactionDuration: parseFloat(transactionDuration),
                 loginAttempts: parseInt(loginAttempts),
                 details

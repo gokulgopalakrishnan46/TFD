@@ -15,11 +15,19 @@ exports.app = app;
 const PORT = process.env.PORT || 5000;
 app.use((0, cors_1.default)());
 app.use(express_1.default.json());
+// Request logger
+app.use((req, res, next) => {
+    console.log(`${new Date().toISOString()} - ${req.method} ${req.originalUrl}`);
+    if (req.method !== 'GET') {
+        console.log('Body:', JSON.stringify(req.body, null, 2));
+    }
+    next();
+});
 app.use('/api/auth', authRoutes_1.default);
 app.use('/api/transactions', transactionRoutes_1.default);
 // Basic health check
 app.get('/', (req, res) => {
-    res.send('Fraud Detection API is running');
+    res.send('Fraud Lens API is running');
 });
 // Start server
 const server = app.listen(PORT, () => {
